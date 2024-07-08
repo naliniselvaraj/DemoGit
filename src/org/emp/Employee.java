@@ -1,5 +1,14 @@
 package org.emp;
 public class Employee {
+	
+	
+	private void projectName() {
+
+		System.out.println("Facebook");
+	}
+	
+	
+	
 private void empId() {
 System.out.println("Employee Id is abc");
 	}
